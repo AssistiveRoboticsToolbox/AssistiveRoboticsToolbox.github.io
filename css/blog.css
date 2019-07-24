@@ -122,8 +122,8 @@ ul.blog-icons i:hover {
 /*--/right--*/
 
 .tech-btm h4 {
-    font-size: 1.2em;
-    color: #333333;
+    font-size: 1.2em; /*1.2em*/
+    color: #737070; /*#333333*/
     font-weight: 700;
     margin-bottom: 1em;
 }
@@ -548,6 +548,7 @@ h5.mt-0 {
     }
     .single-gd h4 {
         font-size: 1em;
+        color: #737070; /*None*/
     }
 }
 
@@ -577,6 +578,7 @@ h5.mt-0 {
     }
     .single-gd h4 {
         font-size: 1em;
+        color: #737070; /*None*/
     }
     .single-left {
         margin-top: 2em;
