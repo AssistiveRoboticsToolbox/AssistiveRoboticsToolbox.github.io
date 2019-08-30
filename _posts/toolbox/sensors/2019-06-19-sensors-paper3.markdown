@@ -39,6 +39,8 @@ Textile electromyography (EMG) electrodes embedded in clothing allow muscle exci
 -->
 
 <br><br>
+### SoftSens EMG
+<br>
 <div align="center">
 <iframe width="550" height="300"  src="https://www.youtube.com/embed/imvDVjUAvq4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen> </iframe>
 </div>

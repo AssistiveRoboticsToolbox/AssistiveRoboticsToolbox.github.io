@@ -30,6 +30,8 @@ Force plates are tools used for the measurement of ground reaction forces during
 -->
 
 <br><br>
+### What is a force plate
+<br>
 <div align="center">
 <iframe width="550" height="300"  src="https://www.youtube.com/embed/e0SnzvVDr4I" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen> </iframe>
 </div>
