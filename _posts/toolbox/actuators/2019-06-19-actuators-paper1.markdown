@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      Motor
+title:      High torque density motor and smart actuator
 author:     Shenxiu Wu
 tags: 		sensors
 subtitle:  	Some Short Description of Post
@@ -10,8 +10,6 @@ category:  sensors
 
 <!--* TOC
 {:toc}-->
-<br>
-### High torque density motor and smart actuator
 <br>
 Quasi-direct drive actuation is a new paradigm of robot actuation design that leverages high torque density motors with low ratio transmission mechanism. The benefits of the quasi-direct drive include a simplified mechanical structure, reduced mass and volume, and highly backdrivability. To enable the quasi-direct drive actuation paradigm, it is crucial to design high torque density motors. Our custom designed BLDC motors optimize the mechanical structure, topology, and electromagnetic properties as shown in Fig 1(a). To maximize torque density, it adopts an outer rotor, pancake (flat, shorter aspect ratio) and concentrated winding structure with more pole pairs. It has a higher coil space factor (more winding set in certain space), single strand winding, smaller gaps between adjacent the rotor and use high-temperature resistive magnetic materials to reduce stator iron loss. To minimize rotary inertia, unlike conventional BLDC motors that place windings around rotors, our rotor only consists of the permanent magnet and rotor cover while the winding is attached to stators. Through the lightweight design of outer rotor, the motor rotary inertia can be minimized. Our motor also makes the back electromotive force more sinusoidal, therefore the field-oriented control becomes easy and the control become more precise and has higher efficiency. Fig 1(b) shows our motor operation range (torque-velocity performance), it has a similar continuous torque-velocity performance with Maxon EC flat 505592, but the weight is less than one-third of it (Our motor weights 174g vs. Maxon’s 600g). Through the electromagnetic and mechanical optimization which uses high-temperature resistant materials and scientific wiring, our motor has higher overdrive and heat dispassion ability to overdrive to 2 Nm peak torque in 5 seconds. 
 <br><br>
