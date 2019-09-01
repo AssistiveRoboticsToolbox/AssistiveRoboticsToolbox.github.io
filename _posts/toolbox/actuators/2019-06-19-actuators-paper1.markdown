@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      High torque density motor and smart actuator
+title:      High torque density motor 
 author:     Shenxiu Wu
 tags: 		sensors
 subtitle:  	Some Short Description of Post
