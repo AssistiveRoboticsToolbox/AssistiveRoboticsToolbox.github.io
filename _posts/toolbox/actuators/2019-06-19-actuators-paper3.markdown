@@ -8,15 +8,17 @@ category:  sensors
 ---
 <!-- Start Writing Below in Markdown -->
 
-<!--* TOC
-{:toc}-->
+<p style="text-indent:2em"><font face="Arial" color = "black" size="4" style="line-height: 1.1">
+The usage of hydraulics in biorobotic applications has increased in recent years, due to the advantage of high force to weight ratios, energy and power density. Soft, compliant hydraulically actuated artificial McKibben muscles can be used in applications where a high force to weight ratio, energy, and power density are useful, such as compact small robots.   To achieve the goal of creating an assistive exoskeleton robot with a HAM (hydraulically actuated muscle), an artificial muscle of smaller size to directly apply contraction force to the arm was developed and tested by creation and subsequent modification of a custom, in-house hydraulic driving system.</font></p>
+<br>
+<div align="center"><img width="750" height="220" src="/images/toolbox/actuators/hydraulic0.jpg"></div>
+<br>
+<p style="text-indent:2em"><font face="Arial" color = "black" size="4" style="line-height: 1.1">
+A hydraulically actuated artificial muscle, using the working principle of the pneumatic McKibben muscle, can be used with the advantage of safety and compliance to human biomechanics compared to rigid exoskeletons. The development of the in-house lightweight 2 kg hydraulic driving system and artificial muscle (1” D, 8”/10” L)  is documented, with experimentation conducted so far at pressures of up to 140 psi,  capable of lifting a weight of up to 82.2 lbs. Informal testing to confirm the durability of the fully pressurized muscle is used, running over a longer muscle with a 9110 lb vehicle without actuator failure. Further work such as optimizing the muscle, optimizing the system, and designing an end effector for a soft robot for elbow flexion assistance is discussed.</font></p>
 
 <br>
-Abstract—The usage of hydraulics in biorobotic applications has increased in recent years, due to the advantage of high force to weight ratios, energy and power density. A hydraulically actuated artificial muscle, using the working principle of the pneumatic McKibben muscle, can be used with the advantage of safety and compliance to human biomechanics compared to rigid exoskeletons. The development of the in-house lightweight 2 kg hydraulic driving system and artificial muscle (1” D, 8”/10” L) is documented, with experimentation conducted so far at pressures of up to 140 psi, capable of lifting a weight of up to 82.2 lbs. Informal testing to confirm the durability of the fully pressurized muscle is used, running over a longer muscle with a 9110 lb vehicle without actuator failure. Further work such as optimizing the muscle, optimizing the system, and designing an end effector for a soft robot for elbow flexion assistance is discussed.
 
-<br><br>
-
-<div align="center"><img width="400" height="400" src="/images/toolbox/actuators/hydraulic.jpg"></div>
+<div align="center"><img width="750" height="220" src="/images/toolbox/actuators/hydraulic1.jpg"></div>
 
 
 <!--<img align="right" src="/images/toolbox/sensors/IMU.jpg"/>-->
