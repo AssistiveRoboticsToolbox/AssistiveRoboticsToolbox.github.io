@@ -12,7 +12,7 @@ category:  sensors
 {:toc}-->
 <p style="text-indent:2em"><font face="Arial" color = "black" size="4" style="line-height: 1.1">
 Force plates are tools used for the measurement of ground reaction forces during walking, jumping, or any other type of movement. Force plates use a one of several different types of sensors (load cells) to measure forces, and the corresponding values are typically presented in Newtons (N)—the standard measure across physics. Beyond vertical force, some force plates can measure shear forces—i.e. lateral and horizontal forces. These come into play more specifically for healthcare and research applications, such as orthotic bracing and studies of specific neuro-muscular diseases. Force plates measure ground reaction forces. If we know the frequency of the force-data, we can then perform additional measurements that provide us with far more information about human movement. With some basic math we can use this information to measure a whole range of things, including velocity (m/s), power (watts), displacement (meters), temporal parameters (seconds) and left/right asymmetry for bilateral systems.</font></p>
-<br><br>
+<br>
 
 <div align="center"><img width="750" height="250" src="/images/toolbox/sensors/foceplate_2.jpg"></div>
 <br>
@@ -35,7 +35,7 @@ Postural studies typically consider a number of mechanical variables that can be
 </div>
 -->
 
-<br><br>
+<br>
 ### What is a force plate
 <br>
 <div align="center">

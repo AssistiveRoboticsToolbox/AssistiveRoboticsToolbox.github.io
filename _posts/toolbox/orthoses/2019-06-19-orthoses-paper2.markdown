@@ -33,7 +33,7 @@ This paper presents a prototype design for a soft, backdrivable, cable-driven, h
 </div>
 -->
 
-<br><br>
+<br>
 ### Hip Exo
 <br>
 <div align="center">

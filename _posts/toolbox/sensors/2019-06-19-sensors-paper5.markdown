@@ -12,7 +12,7 @@ category:  sensors
 {:toc}-->
 <p style="text-indent:2em"><font face="Arial" color = "black" size="4" style="line-height: 1.1">
 Motion capture (sometimes referred as mo-cap or mocap, for short) is the process of recording the movement of objects or people. It is used in military, entertainment, sports, medical applications, and for validation of computer vision and robotics. In filmmaking and video game development, it refers to recording actions of human actors, and using that information to animate digital character models in 2D or 3D computer animation.When it includes face and fingers or captures subtle expressions, it is often referred to as performance capture. In many fields, motion capture is sometimes called motion tracking, but in filmmaking and games, motion tracking usually refers more to match moving.</font></p>
-<br><br>
+<br>
 
 <div align="center"><img width="750" height="250" src="/images/toolbox/sensors/qualysis.jpg"></div>
 <br>
@@ -35,7 +35,7 @@ Camera movements can also be motion captured so that a virtual camera in the sce
 </div>
 -->
 
-<br><br>
+<br>
 ### Qualisys Motion Capture
 <br>
 <div align="center">

@@ -51,7 +51,7 @@ Thanks to a series of mechanical, topological and electromagnetical motor optimi
 </div>
 -->
 
-<br><br>
+<br>
 ### High torque density actuation test
 <br>
 <div align="center">

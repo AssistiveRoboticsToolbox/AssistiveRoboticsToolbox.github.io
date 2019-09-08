@@ -21,7 +21,7 @@ There is three actuation paradigm of wearable robots, namely, conventional actua
 
 <div align="center"><img width="300" height="300" src="/images/toolbox/orthoses/knee.jpg"></div>
 
-<br><br>
+<br>
 
 
 <!--<img align="right" src="/images/toolbox/sensors/IMU.jpg"/>-->
@@ -37,7 +37,7 @@ There is three actuation paradigm of wearable robots, namely, conventional actua
 </div>
 -->
 
-<br><br>
+<br>
 ### High torque density actuation test
 <br>
 <div align="center">

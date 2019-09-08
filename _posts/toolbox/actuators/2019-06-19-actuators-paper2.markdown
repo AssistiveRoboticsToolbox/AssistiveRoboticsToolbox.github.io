@@ -31,7 +31,7 @@ Artificial muscles hold promise for safe and powerful actuation for myriad commo
 </div>
 -->
 
-<br><br>
+<br>
 ### Pneumatic Ankle
 <br>
 <div align="center">

@@ -34,7 +34,7 @@ A hydraulically actuated artificial muscle, using the working principle of the p
 </div>
 -->
 
-<br><br>
+<br>
 ### High torque density actuation test
 <br>
 <div align="center">
