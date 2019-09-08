@@ -16,7 +16,7 @@ Electromyography (EMG) is a diagnostic procedure to assess the health of muscles
 <p style="text-indent:2em"><font face="Arial" color = "black" size="4" style="line-height: 1.1">
 B&L Engineering manufactures active surface EMG pre-amplified electrodes compatible with most EMG Systems. There are three models to choose from: Wide-spaced electrode pads with an integrated ground pad and wide or narrow spaced electrode pads for use with a separate ground. No skin preparation or gel is required, and both screw spring and thumb screw adaptors are available for Fine Wire attachment. The electrodes and connectors are color coordinated in eight different colors for ease of use.</font></p>
 <br>
-<div align="center"><img width="600" height="200" src="/images/toolbox/sensors/EMG.jpg"></div>
+<div align="center"><img width="600" height="200" src="/images/toolbox/sensors/EMG1.jpg"></div>
 <br>
 
 ### Fabric EMG sensor 

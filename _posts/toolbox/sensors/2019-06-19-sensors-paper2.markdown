@@ -15,7 +15,7 @@ In-shoe pressure measurement devices are commonly used in both research and clin
 <br>
 
 <!--<img align="center" src="/images/toolbox/sensors/insole.jpg" height="200" width="200"/>-->
-<div align="center"><img width="700" height="200" src="/images/toolbox/sensors/insole.jpg"></div>
+<div align="center"><img width="700" height="200" src="/images/toolbox/sensors/insole1.jpg"></div>
 <br>
 <p style="text-indent:2em"><font face="Arial" color = "black" size="4" style="line-height: 1.1">
 A wearable gait observation system is being developed in the form of autonomous insoles that can collect sensor data throughout the day. Each insole comprises pressure sensors for studying posture. These pressure sensors are off the shelf components that are integrated in flexible insoles for using easily in daily life. A commercially available Smartphone is used to wirelessly collect data in real time from the insoles and transfers it to a backend computer server via microcontroller. Transfer of sensor data from the insoles to the Smartphone is implemented using the Bluetooth Low Energy wireless standard.</font></p>
