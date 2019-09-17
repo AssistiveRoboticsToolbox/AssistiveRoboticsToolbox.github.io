@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      Customized High Torque Tensity Actuator 
+title:      Customized High Torque Density Actuator 
 author:     Shenxiu Wu
 tags: 		sensors
 subtitle:  	Some Short Description of Post
