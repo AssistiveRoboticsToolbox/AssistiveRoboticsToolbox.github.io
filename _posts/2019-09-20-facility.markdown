@@ -8,6 +8,9 @@ category:  sensors
 ---
 <!-- Start Writing Below in Markdown -->
 
+
+
+
 <p style="text-indent:2em"><font face="Arial" color = "black" size="4" style="line-height: 1.1">The CCNY Biomechatronics Laboratory is the lab established by PI Su. It is approximately 1500 sq. ft. suite located on the seventh floor of the Marshak Science Building on The City College of New York’s campus in Manhattan. It includes 3 office rooms, 1 workspace, and 1 experimental space. It is a facility for biomechanics and wearable robotics research. The lab has been instrumented with a heavy-duty treadmill, mobile motion capture system, mobile insole sensors, and state of the art 3D printers. Several exoskeleton prototypes have been developed for research on rehabilitation, mobility assistance, hand manipulation, and human augmentation, etc.</font></p>
 <br>
 <div align="center"><img width="900" height="400" src="/images/facility/1.jpg"></div>

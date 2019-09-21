@@ -1426,8 +1426,8 @@ font-size: 2em;
 }
 
 #logo-header {
-    width: 147px;
-    height: 60px;
+    width: 120px; /*147*/
+    height: 50px;
     /*padding-top: 20px;*/
 }
 
